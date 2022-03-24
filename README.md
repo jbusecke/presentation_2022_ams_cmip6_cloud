@@ -3,4 +3,6 @@
 
 Material for the demo of my [AMS22 talk](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398536)
 
+Presented with slight modifications at the UCLA IDRE Open Science Symposium.
+
 [Video runthrough of the demo](https://youtu.be/bJNpfuW_ypU)
